@@ -18,6 +18,7 @@ public class biggernumber {
         }else if(num3 >= num1 && num3 >= num2){
              System.out.println("the greater number is: "+ num3);
         }
+        System.out.println("good bye..!");
  input.close();
     }
   
