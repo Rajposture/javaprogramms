@@ -12,7 +12,7 @@ import java.util.Scanner;
         else if (percentage <= 85)
         System.out.println("you got B");
         else {
-            System.out.println("fail");
+            // System.out.println("fail");
         }
 
         
