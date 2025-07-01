@@ -19,6 +19,7 @@ public class biggernumber {
              System.out.println("the greater number is: "+ num3);
         }
         System.out.println("good bye..!");
+         System.out.println("good bye baby..!");
  input.close();
     }
   
