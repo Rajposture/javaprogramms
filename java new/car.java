@@ -1,4 +1,4 @@
-class car {
+ public class car {
     String carcolor;
     int noofwheels;
     float fuel;
@@ -18,5 +18,8 @@ class car {
     }
     public void addfuel(float fuel){
         currentfuelinlitter+=fuel;
+    }
+    public void speed(int speed){
+        System.out.println("speed is 90 m\s");
     }
 }
