@@ -82,7 +82,7 @@ public class bank {
         System.out.println("4. Check Balance");
         System.out.println("5. Show Transaction History");
         System.out.println("6. Exit");
-        System.out.print("Select an option: ");
+        System.out.print("Select an option : ");
     }
 
     private static void createAccount() {
