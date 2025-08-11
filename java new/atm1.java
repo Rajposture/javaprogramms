@@ -34,7 +34,7 @@ public class atm1 {
         }
     }
     public void savingaccount(){ //saving account add / check balance.
-        System.out.println("Welcome to the Saving account");
+        System.out.println(" Welcome to the Saving account");
         System.out.print("Enter your PINCODE: ");
         String enteredPin = input.nextLine();
         System.out.print("Enter the $ ammount to save: ");
@@ -60,7 +60,7 @@ public class atm1 {
     }
     public void menu() {
         while (true) {
-            System.out.println("\nWELCOME TO ATM");
+            System.out.println("\n💸WELCOME TO ATM💰");
             System.out.println("Hey vetran , ATM Service Avaliable");
             System.out.println("1. Press 1 to check balance.");
             System.out.println("2. Press 2 to withdraw.");
