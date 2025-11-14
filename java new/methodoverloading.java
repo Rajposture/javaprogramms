@@ -1,4 +1,4 @@
-import  shape;
+
 class rectanglebox{
     float height;
     float width;
@@ -9,7 +9,7 @@ width = y;
 lenght = z;
 }
 rectanglebox(float x){
-lenght = width = x;
+lenght = x;
 }
 float volume(){
     return height * lenght * width;

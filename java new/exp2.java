@@ -1,5 +1,5 @@
 class pen{
-   String color;
+   String color; 
    String type;
    String company;
    int rating;
