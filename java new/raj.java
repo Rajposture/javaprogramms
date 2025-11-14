@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import mypackage.Myclass;
 public class raj{
     public static void main(String[]args){
         Scanner intake = new Scanner(System.in);
@@ -8,7 +8,8 @@ public class raj{
         String name = intake.nextLine();
 
         System.out.println("Welcome " + name +"..! to virtual world" );
-
+        Myclass obj = new Myclass();
+        obj.main(args);
 
     }
 }
